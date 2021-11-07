@@ -10,6 +10,6 @@ I studied BSc Computer Science and MSc Data Science @Lancaster University.
 
 Some notable software projects I've worked on:
 
-- [x] Horizon Scanning 📈 Creating predictive models to predict regulation and substance updates (read more [here](https://www.productstewards.org/blog/predicting-global-regulatory-futures-proactive-product-stewardship))
-- [x] [ca-tms](https://www.ca-tms.com/) 📝 Timesheet system for a major architectural firm in Preston (~60 employees)
-- [x] [Personal Website](https://www.harrybaines.net/) 👨‍💻 Personal portfolio website (read more about me here!)
+- Horizon Scanning 📈 Creating predictive models to predict regulation and substance updates (read more [here](https://www.productstewards.org/blog/predicting-global-regulatory-futures-proactive-product-stewardship))
+- [ca-tms](https://www.ca-tms.com/) 📝 Timesheet system for a major architectural firm in Preston (~60 employees)
+- [Personal Website](https://www.harrybaines.net/) 👨‍💻 Personal portfolio website (read more about me here!)
