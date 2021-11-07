@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi! I'm Harry 👋
 
-<!--
-**harrybaines/harrybaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the AI guy.
 
-Here are some ideas to get you started:
+I'm a Data Scientist at Yordas Digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with data everyday. 
+
+I studied BSc Computer Science and MSc Data Science @Lancaster University.
+
+Some notable software projects I've worked on:
+
+- [x] Horizon Scanning 📈 Creating predictive models to predict regulation and substance updates (read more [here](https://www.productstewards.org/blog/predicting-global-regulatory-futures-proactive-product-stewardship))
+- [x] [ca-tms](https://www.ca-tms.com/) 📝 Timesheet system for a major architectural firm in Preston (~60 employees)
+- [x] [Personal Website](https://www.harrybaines.net/) 👨‍💻 Personal portfolio website (read more about me here!)
