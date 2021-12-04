@@ -4,7 +4,7 @@ I'm the AI guy.
 
 I'm a Data Scientist at Yordas Digital. 
 
-I studied BSc Computer Science and MSc Data Science @Lancaster University.
+I studied BSc Computer Science (first) and MSc Data Science (distinction) @Lancaster University.
 
 Some notable software projects I've worked on:
 
