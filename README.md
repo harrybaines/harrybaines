@@ -2,9 +2,7 @@
 
 I'm the AI guy.
 
-I'm a Data Scientist at Yordas Digital.
-
-I work with data everyday. 
+I'm a Data Scientist at Yordas Digital. 
 
 I studied BSc Computer Science and MSc Data Science @Lancaster University.
 
