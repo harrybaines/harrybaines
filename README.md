@@ -4,7 +4,7 @@ I'm the AI guy.
 
 I studied BSc Computer Science (first) and MSc Data Science (distinction) at Lancaster University.
 
-See some of my repositories:
+See some of my work:
 
 - [ml-resources](https://github.com/harrybaines/ml-resources) 📙 An actively maintained repository of AI/ML resources and code snippets I've collected over time.
 - [Monte Carlo Tree Search](https://github.com/harrybaines/MCTS-TTTAI) 🔎 From scratch implementation of MCTS for Tic-Tac-Toe
