@@ -2,7 +2,7 @@
 
 I'm the AI guy.
 
-- Studied BSc Computer Science (First Class Hons) and MSc Data Science (Distinction) at Lancaster University.
+- BSc Computer Science (First Class Hons), MSc Data Science (Distinction) at Lancaster University.
 - Data Scientist with 2 years experience analysing data and building ML models.
 - Interested in data science, artificial intelligence and machine learning engineering.
 
