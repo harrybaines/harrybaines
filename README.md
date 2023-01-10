@@ -11,8 +11,8 @@ Some of my work:
 - [ai-avatar-generator](https://github.com/harrybaines/AI-Avatar-Generator) 👨🏻 AI avatar generator trained on my face using Dreambooth Stable Diffusion.
 - [ml-docs](https://harrybaines.github.io/MLDocs/) 📃 An actively maintained website of AI, ML resources and code snippets I've collected over time.
 - [ml-resources](https://github.com/harrybaines/ml-resources) 📙 The main repo behind ml-docs.
-- [Personal Website](https://github.com/harrybaines/Portfolio-Website) 👨‍💻 Personal portfolio website (read more about me here!)
-- [Monte Carlo Tree Search](https://github.com/harrybaines/MCTS-TTTAI) 🔎 From scratch implementation of MCTS for Tic-Tac-Toe
+- [personal-website](https://github.com/harrybaines/Portfolio-Website) 👨‍💻 Personal portfolio website (read more about me here!)
+- [mcts-tttai](https://github.com/harrybaines/MCTS-TTTAI) 🔎 From scratch implementation of MCTS for Tic-Tac-Toe
 - [ca-tms](https://www.ca-tms.com/) 📝 Full-stack timesheet system for a major architectural firm (~60 employees)
 
 You can find me here:
