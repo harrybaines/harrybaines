@@ -15,14 +15,15 @@ I'm the AI guy. My main interests are data science, artificial intelligence and 
 - **MSc Data Science** (Distinction) @ Lancaster.
 - **BSc Computer Science** (First Class Hons) @ Lancaster.
 
-You can view my work on my [portfolio website](https://github.com/harrybaines/Portfolio-Website).
+You can view my work on my [portfolio website]([https://github.com/harrybaines/Portfolio-Website](https://www.harrybaines.net/)){:target="_blank"}.
 
-- [ai-avatar-generator](https://github.com/harrybaines/AI-Avatar-Generator) AI avatar generator trained on my face using Dreambooth Stable Diffusion. Also available as a Discord bot for easy generations.
-- [fpl-scout-scraper](https://github.com/harrybaines/FPL-discord-bot) Data scraping of the Fantasy Football Scout website.
-- [ca-tms](https://www.ca-tms.com/) Full-stack timesheet system for a major architectural firm (~60 employees).
-- [mcts-tttai](https://github.com/harrybaines/MCTS-TTTAI) From-scratch implementation of MCTS for Tic-Tac-Toe.
-- [ml-docs](https://harrybaines.github.io/MLDocs/) An actively maintained website of AI, ML resources and code snippets I've collected over time.
-- [ml-resources](https://github.com/harrybaines/ml-resources) The main repo behind ml-docs.
+- [ai-avatar-generator](https://github.com/harrybaines/AI-Avatar-Generator){:target="_blank"} AI avatar generator trained on my face using Dreambooth Stable Diffusion. Also available as a Discord bot for easy generations.
+- [fpl-scout-scraper](https://github.com/harrybaines/FPL-discord-bot){:target="_blank"} Data scraping of the Fantasy Football Scout website.
+- [ca-tms](https://www.ca-tms.com/){:target="_blank"} Full-stack timesheet system for a major architectural firm (~60 employees).
+- [mcts-tttai](https://github.com/harrybaines/MCTS-TTTAI){:target="_blank"} From-scratch implementation of MCTS for Tic-Tac-Toe.
+- [personal-website](https://github.com/harrybaines/portfolio-website){:target="_blank"} Personal portfolio website.
+- [ml-docs](https://harrybaines.github.io/MLDocs/){:target="_blank"} An actively maintained website of AI, ML resources and code snippets I've collected over time.
+- [ml-resources](https://github.com/harrybaines/ml-resources){:target="_blank"} The main repo behind ml-docs.
 
 ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrybaines&show_icons=true)
 
