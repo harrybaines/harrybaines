@@ -9,8 +9,6 @@
   </a> 
 </p>
 
----
-
 I'm the AI guy. My main interests are data science, artificial intelligence and machine learning engineering.
 
 - **Data Scientist** with 2 years of experience analysing data and building ML models.
@@ -22,6 +20,7 @@ Some of my work:
 
 - [ai-avatar-generator](https://github.com/harrybaines/AI-Avatar-Generator) AI avatar generator trained on my face using Dreambooth Stable Diffusion. Also available as a Discord bot for easy generations.
 - [personal-website](https://github.com/harrybaines/Portfolio-Website)  Personal portfolio website.
+- [fpl-scout-scraper](https://github.com/harrybaines/FPL-discord-bot) Data scraping of the Fantasy Football Scout website.
 - [ca-tms](https://www.ca-tms.com/) Full-stack timesheet system for a major architectural firm (~60 employees).
 - [mcts-tttai](https://github.com/harrybaines/MCTS-TTTAI) From-scratch implementation of MCTS for Tic-Tac-Toe.
 - [ml-docs](https://harrybaines.github.io/MLDocs/) An actively maintained website of AI, ML resources and code snippets I've collected over time.
