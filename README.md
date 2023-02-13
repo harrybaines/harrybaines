@@ -6,7 +6,10 @@
   </a> 
   <a href="https://twitter.com/harryb0905" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> 
+  </a>
+  <a class="icon" target="_blank" rel="noopener" href="mailto:harryb0905@googlemail.com" aria-label="Email">
+      <i class="fas fa-envelope" aria-hidden="true"></i>
+  </a>
 </p>
 
 I'm the AI guy. My main interests are data science, artificial intelligence and machine learning engineering.
