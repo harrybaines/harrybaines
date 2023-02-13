@@ -15,7 +15,7 @@ I'm the AI guy. My main interests are data science, artificial intelligence and 
 - **MSc Data Science** (Distinction) @ Lancaster.
 - **BSc Computer Science** (First Class Hons) @ Lancaster.
 
-You can view my work on my [portfolio website]([https://github.com/harrybaines/Portfolio-Website](https://www.harrybaines.net/).
+You can view my work on my [portfolio website](https://www.harrybaines.net/).
 
 - [ai-avatar-generator](https://github.com/harrybaines/AI-Avatar-Generator) AI avatar generator trained on my face using Dreambooth Stable Diffusion. Also available as a Discord bot for easy generations.
 - [fpl-scout-scraper](https://github.com/harrybaines/FPL-discord-bot) Data scraping of the Fantasy Football Scout website.
