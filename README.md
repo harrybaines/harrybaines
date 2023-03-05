@@ -11,7 +11,7 @@
 
 I'm the AI guy. My main interests are data science, artificial intelligence and machine learning engineering.
 
-- **Data Scientist** with 2 years of experience analysing data and building ML models.
+- **Data Scientist** with 4.5 years of experience analysing data and building ML models.
 - **MSc Data Science** (Distinction) @ Lancaster.
 - **BSc Computer Science** (First Class Hons) @ Lancaster.
 
