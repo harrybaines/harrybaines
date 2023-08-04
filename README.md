@@ -20,7 +20,7 @@ You can read more about me on my [portfolio website](https://www.harrybaines.net
 
 I also enjoy contributing to open source projects:
 
-- [Ivy](https://github.com/unifyai/ivy): unified machine learning framework
-- [Buildspace Projects](https://github.com/buildspace/buildspace-projects): Contributor to AI avatar tutorial project on Buildspace projects
+- [Ivy](https://github.com/unifyai/ivy): ML framework transpiler and unified framework.
+- [Buildspace Projects](https://github.com/buildspace/buildspace-projects): AI avatar tutorial project on Buildspace projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrybaines&layout=compact)](https://github.com/harrybaines/github-readme-stats)
