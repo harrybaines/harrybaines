@@ -19,7 +19,7 @@ You can read more about me on my [portfolio website](https://www.harrybaines.net
 - **MSc Data Science** (Distinction) @ Lancaster.
 - **BSc Computer Science** (First Class) @ Lancaster.
 
-I've also built a [full-stack time management](https://www.ca-tms.com/) system for ~70 employees, and currently working on a second version for maximum productivity.
+I've also built a [full-stack time management](https://www.ca-tms.com/) system for ~70 employees, and I'm currently working on a second version with more advanced features to optimise productivity.
 
 I also enjoy contributing to open source projects:
 
