@@ -14,8 +14,8 @@ I'm the AI guy. My main interests are data science, machine learning and softwar
 You can read more about me on my [portfolio website](https://www.harrybaines.net/).
 
 - **Machine Learning Research Engineer** (current)
-- **Data Scientist** with 2 years of experience analysing data and building ML models.
-- **Software Engineer** with 5 years of experience part-time building full-stack applications.
+- **Data Scientist** with 2 years of full-time experience building and deploying ML models and applications.
+- **Software Engineer** with 5 years of part-time experience building full-stack applications.
 - **MSc Data Science** (Distinction) @ Lancaster.
 - **BSc Computer Science** (First Class) @ Lancaster.
 
