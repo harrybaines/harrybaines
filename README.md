@@ -9,10 +9,6 @@
   </a>
 </p>
 
-I'm the AI guy. My main interests are data science, machine learning and software engineering.
-
-You can read more about me on my [portfolio website](https://www.harrybaines.net/).
-
 - **Machine Learning Research Engineer** (current)
 - **Data Scientist** with 2 years of full-time experience building and deploying ML models and applications.
 - **Software Engineer** with 5 years of part-time experience building full-stack applications.
@@ -25,5 +21,7 @@ I also enjoy contributing to open source projects:
 
 - [Ivy](https://github.com/unifyai/ivy): ML framework transpiler and unified framework.
 - [Buildspace Projects](https://github.com/buildspace/buildspace-projects): AI avatar tutorial project on Buildspace projects.
+
+You can read more about me on my [portfolio website](https://www.harrybaines.net/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrybaines&layout=compact)](https://github.com/harrybaines/github-readme-stats)
