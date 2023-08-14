@@ -9,7 +9,6 @@
   </a>
 </p>
 
-- **Machine Learning Research Engineer** (current)
 - **Data Scientist** with 2 years of full-time experience building and deploying ML models and applications.
 - **Software Engineer** with 5 years of part-time experience building full-stack applications.
 - **MSc Data Science** (Distinction) @ Lancaster.
