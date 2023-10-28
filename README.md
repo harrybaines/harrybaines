@@ -9,8 +9,8 @@
   </a>
 </p>
 
-- **Software Engineer** with 5 years of part-time experience building full-stack applications.
-- **Data Scientist** with 2 years of full-time experience building and deploying ML models and applications.
+- **Software Engineer** with 5 years experience building full-stack applications.
+- **Data Scientist** with 2 years experience building and deploying ML models and applications.
 - **MSc Data Science** (Distinction) @ Lancaster.
 - **BSc Computer Science** (First Class) @ Lancaster.
 
