@@ -9,12 +9,12 @@
   </a>
 </p>
 
-- **Data Scientist** with 2 years of full-time experience building and deploying ML models and applications.
 - **Software Engineer** with 5 years of part-time experience building full-stack applications.
+- **Data Scientist** with 2 years of full-time experience building and deploying ML models and applications.
 - **MSc Data Science** (Distinction) @ Lancaster.
 - **BSc Computer Science** (First Class) @ Lancaster.
 
-I've also built a [full-stack time management](https://www.ca-tms.com/) system for ~70 employees, and I'm currently working on a second version with more advanced features to optimise productivity.
+I've built a [full-stack time management](https://www.ca-tms.com/) system for ~70 employees, and I'm currently working on a second version with more advanced features to optimise productivity.
 
 I also enjoy contributing to open source projects:
 
