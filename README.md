@@ -1,7 +1,5 @@
 [![Harry's GitHub Banner](./assets/banner.png)](https://harrybaines.net)
 
-<h1 align="center">Hi! 👋 I'm <a href="https://www.harrybaines.net/">Harry</a></h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/harry-baines-400609137/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
