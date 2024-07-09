@@ -1,3 +1,5 @@
+[![Harry's GitHub Banner](./assets/banner.png)](https://harrybaines.net)
+
 <h1 align="center">Hi! 👋 I'm <a href="https://www.harrybaines.net/">Harry</a></h1>
 
 <p align="center">
