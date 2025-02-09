@@ -1,4 +1,4 @@
-## 🙋🏻‍♂️ Hi! I'm Harry.
+### 🙋🏻‍♂️ Hi! I'm Harry
 
 *Building software and tinkering with AI tools before the AI apocalypse*
 
