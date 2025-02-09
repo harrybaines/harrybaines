@@ -16,7 +16,6 @@ I also enjoy contributing to open source projects:
 My principles:
 - Be helpful
 - Be curious
-- Be consistent
 - Teach others what you know
 - Embrace the power of 1% improvements
 
