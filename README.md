@@ -2,11 +2,13 @@
 
 *Building software and tinkering with AI tools before the AI apocalypse*
 
+I've built and sold a [full-stack time management system](https://www.harrybaines.net/projects/archtms) to a large architecture practice. I'm currently finalising a second version with more advanced features.
+
+More about me:
+
 - 👨🏻‍💻 **Software Engineer** with 5+ years experience building full-stack applications.
 - 📈 **Data Scientist** with 2 years experience building and deploying ML models and applications.
 - 🎓 **BSc Computer Science** (First Class) & **MSc Data Science** (Distinction) @ Lancaster University.
-
-I've built and sold a [full-stack time management system](https://www.harrybaines.net/projects/archtms) to a large architecture practice. I'm currently finalising a second version with more advanced features.
 
 I also enjoy contributing to open source projects:
 
