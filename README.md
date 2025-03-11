@@ -2,7 +2,7 @@
 
 #### Building software and tinkering with AI tools before the AI apocalypse
 
-I've built and sold a [full-stack time management system](https://www.harrybaines.net/projects/archtms) to a large architecture practice. I'm currently finalising a second version with more advanced features.
+I've built and sold a [full-stack time management system](https://www.harrybaines.net/blog/archtms) to a large architecture practice. I'm currently finalising a second version with more advanced features.
 
 More about me:
 
