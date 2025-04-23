@@ -13,7 +13,7 @@ I've built and sold a [full-stack time management system](https://www.harrybaine
 - [torchgpt](https://github.com/harrybaines/torchgpt) - PyTorch code generator  
 - [YT-to-text](https://github.com/harrybaines/gradio-whisper) - Transcribe a YouTube video URL to text using the OpenAI Whisper model  
 - [Quark](https://github.com/harrybaines/Quark) - Declarative programming language for smart contracts built with Go
-- 
+
 Feel free to check out my [dotfiles](https://github.com/harrybaines/dotfiles).
 
 I also enjoy contributing to open source projects:
