@@ -6,19 +6,20 @@ Read more about me on my [portfolio website](https://www.harrybaines.net/).
 
 I've built and sold a [full-stack time management system](https://www.harrybaines.net/blog/archtms) to a large architecture practice. I'm currently finalising a second version with more advanced features.
 
-- [archtms](https://www.harrybaines.net/blog/archtms) — Architect management system  
-- [portfolio](https://github.com/harrybaines/portfolio) — Personal portfolio site  
-- [brewkit](https://github.com/harrybaines/brewkit) — Modern starter kit  
-- [Quark](https://github.com/harrybaines/Quark) — Declarative programming language for smart contracts built with Go  
-- [ai avatars](https://github.com/harrybaines/ai-avatar-generator) — Custom Dreambooth Stable Diffusion model trained on my face  
-- [torchgpt](https://github.com/harrybaines/torchgpt) — PyTorch code generator  
-- [YT-to-text](https://github.com/harrybaines/gradio-whisper) — Transcribe a YouTube video URL to text using the OpenAI Whisper model  
-- [dotfiles](https://github.com/harrybaines/dotfiles) — My personal dotfiles
+- [archtms](https://www.harrybaines.net/blog/archtms) - Architect management system  
+- [portfolio](https://github.com/harrybaines/portfolio) - Personal portfolio site  
+- [brewkit](https://github.com/harrybaines/brewkit) - Modern starter kit  (in development)
+- [ai avatars](https://github.com/harrybaines/ai-avatar-generator) - Custom Dreambooth Stable Diffusion model trained on my face  
+- [torchgpt](https://github.com/harrybaines/torchgpt) - PyTorch code generator  
+- [YT-to-text](https://github.com/harrybaines/gradio-whisper) - Transcribe a YouTube video URL to text using the OpenAI Whisper model  
+- [Quark](https://github.com/harrybaines/Quark) - Declarative programming language for smart contracts built with Go
+- 
+Feel free to check out my [dotfiles](https://github.com/harrybaines/dotfiles).
 
 I also enjoy contributing to open source projects:
 
-- 🌀 [Ivy](https://github.com/unifyai/ivy): ML framework transpiler and unified framework.
-- 🖊️ [Buildspace Projects](https://github.com/buildspace/buildspace-projects): AI avatar tutorial project on Buildspace projects.
+- 🌀 [Ivy](https://github.com/unifyai/ivy) - ML framework transpiler and unified framework.
+- 🖊️ [Buildspace Projects](https://github.com/buildspace/buildspace-projects) - AI avatar tutorial project on Buildspace projects.
 
 My background:
 
