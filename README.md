@@ -6,7 +6,7 @@ Read more about me on my [portfolio website](https://www.harrybaines.net/).
 
 I've built and sold a [full-stack time management system](https://www.harrybaines.net/blog/archtms) to a large architecture practice. I'm currently finalising a second version with more advanced features.
 
-- [archtms](https://www.harrybaines.net/blog/archtms) - Architect management system  
+- [archtms](https://www.archtms.app) - Architect management system  
 - [portfolio](https://github.com/harrybaines/portfolio) - Personal portfolio site  
 - [brewkit](https://github.com/harrybaines/brewkit) - Modern starter kit  (in development)
 - [ai avatars](https://github.com/harrybaines/ai-avatar-generator) - Custom Dreambooth Stable Diffusion model trained on my face  
