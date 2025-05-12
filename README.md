@@ -23,7 +23,7 @@ I also enjoy contributing to open source projects:
 
 My background:
 
-- 👨🏻‍💻 **Software Engineer** with 5+ years experience building full-stack applications.
+- 👨🏻‍💻 **Software Engineer** with 6+ years experience building full-stack applications.
 - 📈 **Data Scientist** with 2 years experience building and deploying ML models and applications.
 - 🎓 **BSc Computer Science** (First Class) & **MSc Data Science** (Distinction) @ Lancaster University.
 
