@@ -4,7 +4,7 @@
 
 Read more about me on my [portfolio website](https://www.harrybaines.net/).
 
-I've built and sold a [full-stack time management system](https://www.harrybaines.net/blog/archtms) to a large architecture practice. I'm currently finalising a second version with more advanced features.
+I've built and sold a [full-stack time management system](https://www.archtms.app) to a large architecture practice. I'm currently finalising a second version with more advanced features.
 
 - [archtms](https://www.archtms.app) - Architect management system  
 - [portfolio](https://github.com/harrybaines/portfolio) - Personal portfolio site  
