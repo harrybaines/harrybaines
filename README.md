@@ -8,7 +8,7 @@ Things I've built:
 
 - [archtms](https://www.archtms.app) - Architect management system I built and sold to a large architecture firm.
 - [portfolio](https://github.com/harrybaines/portfolio) - Personal portfolio site.
-- [brewkit](https://github.com/harrybaines/brewkit) - Modern starter kit  (in development).
+- [brewkit](https://github.com/harrybaines/brewkit) - Modern Next.js starter kit.
 - [ai avatars](https://github.com/harrybaines/ai-avatar-generator) - Custom Dreambooth Stable Diffusion model trained on my face.
 - [torchgpt](https://github.com/harrybaines/torchgpt) - PyTorch code generator.
 - [YT-to-text](https://github.com/harrybaines/gradio-whisper) - Transcribe a YouTube video URL to text using the OpenAI Whisper model.
