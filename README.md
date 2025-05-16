@@ -1,4 +1,4 @@
-### Hey! 👋
+#### Hey! 👋
 
 I'm Harry. I write a lot of code. I build all kinds of software hack around in the terminal, and love learning new stuff. I mainly use Go, Python and TypeScript.
 
@@ -32,22 +32,19 @@ Feel free to check out my [personal site](https://www.harrybaines.net) to read m
 
 💻 Dev setup
 
-- Warp terminal
-- Neovim / Zed
-- avante.nvim for AI integration
+- Warp terminal w/Neovim and avante.nvim for AI integration
 - Tmux
-- Zsh shell
+- Zed
+- Zen browser
 - Aerospace
 - Obsidian PARA second brain
-- Zen browser
-- macOS
 
 📔 My principles
 
-- **Keep it simple**: Don't overcomplicate the code if it can be written simpler.
-- **Own what you build**: I care about what I build and how it works inside out.
-- **Care about the details**: Security, performance, UX, it all matters.
-- **Help others grow**: Teach things you learn to others, share what you know.
-- **Stay curious**: always be on the lookout to learn new things.
+- 🧱 **Keep it simple**: Don't overcomplicate the code if it can be written simpler.
+- 🧔 **Own what you build**: I care about what I build and how it works inside out.
+- 📝 **Care about the details**: Security, performance, UX, it all matters.
+- 🌱 **Help others grow**: Teach things you learn to others, share what you know.
+- 📚 **Stay curious**: always be on the lookout to learn new things.
 
 I'm always open for new opportunities, ping me an email and we can chat over coffee! ☕
