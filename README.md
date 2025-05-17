@@ -27,6 +27,7 @@ Feel free to check out my [personal site](https://www.harrybaines.net) to read m
 - Vercel's AI SDK
 - Advanced Linux concepts
 - Terraform
+- Kubernetes
 - AWS CDK
 - AWS Certified Cloud Practitioner certification
 
