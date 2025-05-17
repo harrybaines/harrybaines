@@ -26,6 +26,7 @@ Feel free to check out my [personal site](https://www.harrybaines.net) to read m
 - Rust
 - Vercel's AI SDK
 - Advanced Linux concepts
+- Building a homelab
 - Terraform
 - Kubernetes
 - AWS CDK
