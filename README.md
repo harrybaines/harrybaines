@@ -23,18 +23,14 @@ Feel free to check out my [personal site](https://www.harrybaines.net) to read m
 
 📚 Things I'm learning
 
-- Rust
-- Vercel's AI SDK
-- Advanced Linux concepts
-- Building a homelab
-- Terraform
-- Kubernetes
-- AWS CDK
-- AWS Certified Cloud Practitioner certification
+- 🔤 Languages: Rust, Advanced Go
+- 🛠️ Frameworks and Tools: Vercel's AI SDK, Terraform, Kubernetes
+- ☁️ Cloud: AWS CDK, AWS Certified Cloud Practitioner certification
+- 📝 Misc: Building a homelab, Advanced Linux concepts
 
 💻 Dev setup
 
-- Warp terminal w/Neovim and avante.nvim for AI integration
+- Warp terminal w/neovim and avante.nvim for AI integration
 - Tmux
 - Zed
 - Zen browser
@@ -48,5 +44,6 @@ Feel free to check out my [personal site](https://www.harrybaines.net) to read m
 - 📝 **Care about the details**: Security, performance, UX, it all matters.
 - 🌱 **Help others grow**: Teach things you learn to others, share what you know.
 - 📚 **Stay curious**: always be on the lookout to learn new things.
+- 🧠 **Embrace AI**: because if you don't, chances are you'll be left behind!
 
 I'm always open for new opportunities, ping me an email and we can chat over coffee! ☕
