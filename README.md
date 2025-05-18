@@ -1,6 +1,6 @@
 ### Hiya! 👋
 
-I'm Harry. I write a lot of code. I build all kinds of software, hack around in the terminal, and love learning new stuff. I mainly use Go, Python and TypeScript.
+I'm Harry. I write a lot of code. I build all kinds of software, hack around in the terminal, and love learning new stuff. I mainly use TypeScript, Python and Go.
 
 Feel free to check out my [personal site](https://www.harrybaines.net) to read more about me.
 
