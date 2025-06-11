@@ -8,6 +8,7 @@ Feel free to check out my [personal site](https://www.harrybaines.net) to read m
 
 - [archtms](https://www.archtms.app/) - Architect management system I built and sold to a large architecture firm.
 - [harrybaines/portfolio](https://github.com/harrybaines/portfolio) - Personal portfolio site.
+- [harrybaines/ext2-go](https://github.com/harrybaines/ext2-go) - Linux filesystem partition parser using Go.
 - [harrybaines/dotfiles](https://github.com/harrybaines/dotfiles) - My dev setup config.
 - [harrybaines/brewkit](https://github.com/harrybaines/brewkit) - Modern Next.js starter kit.
 - [harrybaines/ai avatars](https://github.com/harrybaines/ai-avatar-generator) - Custom Dreambooth Stable Diffusion model trained on my face.
