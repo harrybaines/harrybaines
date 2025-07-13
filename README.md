@@ -1,9 +1,7 @@
 ### Hiya! 👋
 
-I'm Harry. I write a lot of code.
-
+- I'm Harry. I write a lot of code.
 - I'm a Developer from the UK 🇬🇧
-- I write a lot of code.
 - I build full-stack apps, AI apps and developer tools.
 - I mainly use TypeScript, Python and Go.
 - I build all kinds of software, hack around in the terminal, and love learning new stuff.
