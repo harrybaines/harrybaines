@@ -2,7 +2,7 @@
 
 - I'm Harry, a developer from the UK 🇬🇧.
 - I'm currently building [create-ai-stack](https://www.create-ai-stack.dev/), the fastest way to build a production-ready AI app.
-- I build full-stack apps, AI apps and developer tools.
+- I build full-stack apps, AI integrations, dev tools and terminal stuff.
 - I mainly use TypeScript, Python and Go.
 - I build all kinds of software, hack around in the terminal, and love learning new stuff.
 
