@@ -8,7 +8,7 @@
 
 Feel free to check out my [personal site](https://www.harrybaines.net) to read more about me, or check out my dotfiles [here](https://github.com/harrybaines/dotfiles).
 
-🧑‍💻 Things I've created
+🧑‍💻 Things I've created:
 
 - [archtms](https://www.archtms.app/) - Architect management system I built and sold to a large architecture firm.
 - [harrybaines/portfolio](https://github.com/harrybaines/portfolio) - Personal portfolio site.
@@ -20,24 +20,26 @@ Feel free to check out my [personal site](https://www.harrybaines.net) to read m
 - [harrybaines/ext2-go](https://github.com/harrybaines/ext2-go) - Linux filesystem partition parser using Go.
 - [harrybaines/Quark](https://github.com/harrybaines/Quark) - Declarative programming language for smart contracts built with Go.
 
-📄 Things I've contributed to
+📄 OS contributions:
 
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line.
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - AI chat interface in the terminal.
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - React package for adding generative components to your AI assistant.
 - [ivy-llc/Ivy](https://github.com/unifyai/ivy) - ML framework transpiler and unified framework.
 - [buildspace/Buildspace Projects](https://github.com/buildspace/buildspace-projects) - AI avatar tutorial project on Buildspace projects.
 
-📚 Things I'm learning
+📚 Things I'm learning:
 
 - 🔤 Languages: Rust, Advanced Go
 - 🛠️ Frameworks and Tools: Vercel's AI SDK, Terraform, Kubernetes
 - ☁️ Cloud: AWS CDK, AWS Certified Cloud Practitioner certification
 - 📝 Misc: Building a homelab, Advanced Linux concepts
 
-💻 Dev setup
+💻 Dev setup:
 
 - Wezterm w/neovim, tmux, and avante.nvim for AI
+- Linear for issue tracking
 - Zen browser
-- Zed
 - Obsidian PARA second brain
 
 📔 My principles
