@@ -17,8 +17,8 @@ Feel free to check out my [personal site](https://www.harrybaines.net) to read m
 - [harrybaines/lovable-clone](https://github.com/harrybaines/lovable-clone) - Lovable clone to build websites with AI.
 - [harrybaines/ai avatars](https://github.com/harrybaines/ai-avatar-generator) - Custom Dreambooth Stable Diffusion model trained on my face.
 - [harrybaines/torchgpt](https://github.com/harrybaines/torchgpt) - PyTorch code generator.
-- [harrybaines/YT-to-text](https://github.com/harrybaines/gradio-whisper) - Transcribe a YouTube video URL to text using the OpenAI Whisper model.
 - [harrybaines/ext2-go](https://github.com/harrybaines/ext2-go) - Linux filesystem partition parser using Go.
+- [harrybaines/YT-to-text](https://github.com/harrybaines/gradio-whisper) - Transcribe a YouTube video URL to text using the OpenAI Whisper model.
 - [harrybaines/Quark](https://github.com/harrybaines/Quark) - Declarative programming language for smart contracts built with Go.
 
 📄 OS contributions:
