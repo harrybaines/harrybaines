@@ -12,8 +12,9 @@ Feel free to check out my [personal site](https://www.harrybaines.net) to read m
 
 - [archtms](https://www.archtms.app/) - Architect management system I built and sold to a large architecture firm.
 - [harrybaines/portfolio](https://github.com/harrybaines/portfolio) - Personal portfolio site.
-- [harrybaines/lovable-clone](https://github.com/harrybaines/lovable-clone) - Lovable clone to build websites with AI.
+- [harrybaines/create-ai-stack](https://github.com/harrybaines/create-ai-stack) - CLI tool to scaffold full-stack AI apps.
 - [harrybaines/brewkit](https://github.com/harrybaines/brewkit-landing) - Modern Next.js starter kit (coming soon).
+- [harrybaines/lovable-clone](https://github.com/harrybaines/lovable-clone) - Lovable clone to build websites with AI.
 - [harrybaines/ai avatars](https://github.com/harrybaines/ai-avatar-generator) - Custom Dreambooth Stable Diffusion model trained on my face.
 - [harrybaines/torchgpt](https://github.com/harrybaines/torchgpt) - PyTorch code generator.
 - [harrybaines/YT-to-text](https://github.com/harrybaines/gradio-whisper) - Transcribe a YouTube video URL to text using the OpenAI Whisper model.
