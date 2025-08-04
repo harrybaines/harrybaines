@@ -1,10 +1,10 @@
 ### Hiya! 👋
 
 - I'm Harry, a developer from the UK 🇬🇧.
-- I'm currently building [create-ai-stack](https://www.create-ai-stack.dev/), the fastest way to build a production-ready AI app.
 - I build full-stack apps, AI integrations, dev tools and terminal stuff.
 - I mainly use TypeScript, Python and Go.
 - I build all kinds of software, hack around in the terminal, and love learning new stuff.
+- I'm building [create-ai-stack](https://www.create-ai-stack.dev/), the fastest way to build a production-ready AI app.
 
 Feel free to check out my [personal site](https://www.harrybaines.net) to read more about me, or check out my dotfiles [here](https://github.com/harrybaines/dotfiles).
 
