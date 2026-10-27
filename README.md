@@ -4,9 +4,8 @@
 - I build full-stack apps, AI integrations, dev tools and terminal stuff.
 - I mainly use TypeScript, Python and Go.
 - I build all kinds of software, hack around in the terminal, and love learning new stuff.
-- I'm building [create-ai-stack](https://www.create-ai-stack.dev/), the fastest way to build a production-ready AI app.
 
-Feel free to check out my [personal site](https://www.harrybaines.net) to read more about me, or check out my dotfiles [here](https://github.com/harrybaines/dotfiles).
+Feel free to check out my [personal site](https://www.harrybaines.dev) to read more about me, or check out my dotfiles [here](https://github.com/harrybaines/dotfiles).
 
 🧑‍💻 Things I've created:
 
@@ -32,14 +31,13 @@ Feel free to check out my [personal site](https://www.harrybaines.net) to read m
 📚 Things I'm learning:
 
 - 🔤 Languages: Rust, Advanced Go
-- 🛠️ Frameworks and Tools: Vercel's AI SDK, Terraform, Kubernetes
+- 🛠️ Frameworks and Tools: Vercel's AI SDK, RAG, Terraform, Kubernetes
 - ☁️ Cloud: AWS CDK, AWS Certified Cloud Practitioner certification
 - 📝 Misc: Building a homelab, Advanced Linux concepts
 
 💻 Dev setup:
 
 - Wezterm w/neovim, tmux, and avante.nvim for AI
-- Linear for issue tracking
 - Zen browser
 - Obsidian PARA second brain
 
