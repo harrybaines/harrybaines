@@ -9,7 +9,7 @@ Feel free to check out my [personal site](https://www.harrybaines.dev) to read m
 
 🧑‍💻 Things I've created:
 
-- [archtms](https://www.archtms.app/) - Architect management system I built and sold to a large architecture firm.
+- [archtms](https://archtms.vercel.app) - Architect management system I built and sold to a large architecture firm.
 - [harrybaines/portfolio](https://github.com/harrybaines/portfolio) - Personal portfolio site.
 - [harrybaines/create-ai-stack](https://www.create-ai-stack.dev/) - CLI tool to scaffold full-stack AI apps.
 - [harrybaines/brewkit](https://github.com/harrybaines/brewkit-landing) - Modern Next.js starter kit (coming soon).
